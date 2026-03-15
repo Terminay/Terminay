@@ -37,18 +37,6 @@ I’m a 14-year-old Computer Science major who traded a normal sleep schedule fo
 
 ---
 
-## 📊 My Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byte-ne" />
-</p>
-
-<p align="center">
-  🚀 Building cool stuff one commit at a time
-</p>
-
----
-
 ### 📂 Directory: `/home/ren/featured_work`
 
 <table>
