@@ -33,7 +33,11 @@
 
 ### Projects
 
-<placeholder>
+- [Lessel](https://github.com/Terminay/lessel)
+- [kJudge](https://github.com/Terminay/kJudge)
+- [IPLp](https://github.com/Terminay/IPLp)
+- [Rewire (indev)](https://github.com/Terminay/lessel)
+> Note: All these projects are Open-source and being continuously developed
 
 ---
 
