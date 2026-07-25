@@ -36,10 +36,11 @@
 - [Lessel](https://github.com/Terminay/lessel)
 - [kJudge](https://github.com/Terminay/kJudge)
 - [IPLp](https://github.com/Terminay/IPLp)
+- [LeanPass](https://github.com/LeanPass)
   
 > Note: All these projects are Open-source and being continuously developed
 
-<b> Kindly STAR all the mentioned Repositories for supporting me in development, and also because it's free of cost and helps people! </b>
+<b> Kindly STAR all the mentioned repositories to support me in development, and also because it's free of cost and helps people! </b>
 
 ---
 
