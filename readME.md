@@ -36,7 +36,7 @@
 - [Lessel](https://github.com/Terminay/lessel)
 - [kJudge](https://github.com/Terminay/kJudge)
 - [IPLp](https://github.com/Terminay/IPLp)
-- [LeanPass](https://github.com/LeanPass)
+- [LeanPass](https://github.com/Terminay/LeanPass)
   
 > Note: All these projects are Open-source and being continuously developed
 
