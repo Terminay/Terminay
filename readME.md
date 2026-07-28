@@ -33,18 +33,20 @@
 
 ### Projects
 
-- [Lessel](https://github.com/Terminay/lessel)
-- [kJudge](https://github.com/Terminay/kJudge)
-- [IPLp](https://github.com/Terminay/IPLp)
-- [LeanPass](https://github.com/Terminay/LeanPass)
+- [Lessel](https://github.com/Terminay/lessel): A framework as an npm package for creating systems of communication between messaging apps.
+- [kJudge](https://github.com/Terminay/kJudge): A CLI tool for competitive programmers that has a quick stress testing and judging system.
+- [IPLp](https://github.com/Terminay/IPLp): An ML model made for predicting IPL matches trained on previous year data from 2008 to 2024.
+- [LeanPass](https://github.com/Terminay/LeanPass): A Lightweight PyPi library for small neural networks and educational experiments. 
   
 > Note: All these projects are Open-source and being continuously developed
 
-<b> Kindly STAR all the mentioned repositories to support me in development, and also because it's free of cost and helps people! </b>
+<b> Kindly ⭐ all the mentioned repositories to support me in development, and also because it's free of cost and helps people! </b>
 
 ---
 
 ### Contact
+
+<b> You could also FOLLOW me here on GitHub! 🫡 </b>
 
 <a href="https://www.linkedin.com/in/tanay-mishra-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://terminay.github.io/My-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
