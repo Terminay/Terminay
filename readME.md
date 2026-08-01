@@ -36,7 +36,8 @@
 - [Lessel](https://github.com/Terminay/lessel): A framework as an npm package for creating systems of communication between messaging apps.
 - [kJudge](https://github.com/Terminay/kJudge): A CLI tool for competitive programmers that has a quick stress testing and judging system.
 - [IPLp](https://github.com/Terminay/IPLp): An ML model made for predicting IPL matches trained on previous year data from 2008 to 2024.
-- [LeanPass](https://github.com/Terminay/LeanPass): A Lightweight PyPi library for small neural networks and educational experiments. 
+- [Leanpass](https://github.com/Terminay/leanpass): A Lightweight PyPi library for small neural networks and educational experiments.
+- [Forj128](https://github.com/Terminay/forj128): A 128-bit cryptographic hash function demonstrating Merkle-Damgard construction.
   
 > Note: All these projects are Open-source and being continuously developed
 
