@@ -53,3 +53,5 @@
 <a href="https://terminay.github.io/My-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 <a href="mailto:kilobyte136@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://linktr.ee/Terminay"> <img src="https://img.shields.io/badge/-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=green" /> </a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Terminay)
