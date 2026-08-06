@@ -1,9 +1,8 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
-## 👋Hi, I'm Tanay  HI , I'M TAWNY BOY
+## 👋Hi, I'm Tanay
 
-### Technologia !!
-🤯🤯
+### Technologies
 <p>
 
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
@@ -38,6 +37,7 @@
 - [IPLp](https://github.com/Terminay/IPLp): An ML model made for predicting IPL matches trained on previous year data from 2008 to 2024.
 - [Leanpass](https://github.com/Terminay/leanpass): A Lightweight PyPi library for small neural networks and educational experiments.
 - [Forj128](https://github.com/Terminay/forj128): A 128-bit cryptographic hash function demonstrating Merkle-Damgard construction.
+- [Repovibes](https://github.com/Terminay/repovibes): A WebApp which generates a radar looking embeddable svg for your github repos.
   
 > Note: All these projects are Open-source and being continuously developed
 
