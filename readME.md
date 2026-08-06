@@ -1,6 +1,7 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
 ## 👋Hi, I'm Tanay
+##  HI , I'M TAWNY BOY
 
 ### Technologies
 
