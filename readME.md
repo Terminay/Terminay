@@ -2,7 +2,7 @@
 
 ## 👋Hi, I'm Tanay  HI , I'M TAWNY BOY
 
-### Technologies
+### Technologies call recieve kar
 
 <p>
 
