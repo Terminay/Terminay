@@ -2,8 +2,8 @@
 
 ## 👋Hi, I'm Tanay  HI , I'M TAWNY BOY
 
-### Technologies call recieve kar
-
+### Technologia !!
+🤯🤯
 <p>
 
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
