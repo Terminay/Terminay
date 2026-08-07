@@ -1,6 +1,6 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
-## 👋Hi, I'm Tanay
+## 👋Hi, I'm Tawny tiger
 
 ### Technologies
 <p>
