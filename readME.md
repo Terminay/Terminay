@@ -1,6 +1,6 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
-## 👋Hi, I'm Tanay Mishra
+## 👋 Hi, I'm Tanay Mishra
 
 ### Technologies
 <p>
@@ -38,16 +38,13 @@
 - [Leanpass](https://github.com/Terminay/leanpass): A Lightweight PyPi library for small neural networks and educational experiments.
 - [Forj128](https://github.com/Terminay/forj128): A 128-bit cryptographic hash function demonstrating Merkle-Damgard construction.
 - [Repovibes](https://github.com/Terminay/repovibes): A WebApp which generates a radar looking embeddable svg for your github repos.
+- [Cairn.js](https://github.com/Terminay/cairnjs): A backend framework where a route's shape, validation, and handler live in one call.
   
-> Note: All these projects are Open-source and being continuously developed
-
-<b> Kindly ⭐ all the mentioned repositories to support me in development, and also because it's free of cost and helps people! </b>
+> Note: All these projects are Open-source and being continuously developed, PR's welcome ;)
 
 ---
 
 ### Contact
-
-<b> You could also FOLLOW me here on GitHub! 🫡 </b>
 
 <a href="https://www.linkedin.com/in/tanay-mishra-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://terminay.github.io/My-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
@@ -55,5 +52,3 @@
 <a href="https://linktr.ee/Terminay"> <img src="https://img.shields.io/badge/-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=green" /> </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Terminay)
-
-![cat](https://prsdx.yourtomo.workers.dev/preview?username=Terminay&theme=dark&type=isocat)
