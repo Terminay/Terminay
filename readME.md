@@ -1,32 +1,12 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
-## 👋 Hi, I'm Tanay Mishra
+My name is **Tanay Mishra**, I am a student from *@PMSHRIKVIITPOWAI*, Mumbai, India, building developer tools, mathematical software, and web apps; “Terminay” is a little play on my name, Tanay, and terminal.
 
-### Technologies
-<p>
-
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL-111?&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black">
-
-</p>
-
----
-
-### About
-
-- 🇮🇳 Based in Mumbai, India
-- 🎓 Student passionate about software engineering and open source
-- 🛠 Building developer tools, web applications, and mathematical software
-- 📚 Interested in systems programming, developer experience, and computer science
+- ✏️ [Python](https://www.python.org/) / [C++](https://isocpp.org/) / [TypeScript](https://www.typescriptlang.org/) / [React](https://react.dev/)
+- ⚙️ [FastAPI](https://fastapi.tiangolo.com/) / [NumPy](https://numpy.org/) / [Pydantic](https://docs.pydantic.dev/) / [pytest](https://docs.pytest.org/)
+- 🗄️ SQL / [MySQL](https://www.mysql.com/) / [PostgreSQL](https://www.postgresql.org/)
+- ☁️ [Vercel](https://vercel.com/) / [Render](https://render.com/) / [Railway](https://railway.com/) / [Cloudflare](https://www.cloudflare.com/)
+- 🎮 [C#](https://dotnet.microsoft.com/en-us/languages/csharp) / [Unity](https://unity.com/)
 
 ---
 
