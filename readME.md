@@ -19,7 +19,9 @@ My name is **Tanay Mishra**, I am a student from *@PMSHRIKVIITPOWAI*, Mumbai, In
 - [Forj128](https://github.com/Terminay/forj128): A 128-bit cryptographic hash function demonstrating Merkle-Damgard construction.
 - [Repovibes](https://github.com/Terminay/repovibes): A WebApp which generates a radar looking embeddable svg for your github repos.
 - [Cairn.js](https://github.com/Terminay/cairnjs): A backend framework where a route's shape, validation, and handler live in one call.
-  
+- [IsitTaken](https://github.com/Terminay/isittaken): A small python library to check your pypi names
+- [Tuiify](https://GitHub.com/Terminay/Tuiify): A Python library which turns typed-functions into TUIs using one-line.
+
 > Note: All these projects are Open-source and being continuously developed, PR's welcome ;)
 
 ---
