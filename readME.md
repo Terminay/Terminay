@@ -1,6 +1,6 @@
 <img src="banner3.png" width="100%" alt="Banner">
 
-My name is **Tanay Mishra**, I am a student from *@PMSHRIKVIITPOWAI*, Mumbai, India, building developer tools, mathematical software, and web apps; “Terminay” is a little play on my name, Tanay, and terminal.
+My name is **Tanay Mishra**. I am a student at *@PMSHRIKVIITPOWAI*, Mumbai, India, building developer tools, mathematical software, and web apps; “Terminay” is a little play on my name, Tanay, and terminal.
 
 - ✏️ [Python](https://www.python.org/) / [C++](https://isocpp.org/) / [TypeScript](https://www.typescriptlang.org/) / [React](https://react.dev/)
 - ⚙️ [FastAPI](https://fastapi.tiangolo.com/) / [NumPy](https://numpy.org/) / [Pydantic](https://docs.pydantic.dev/) / [pytest](https://docs.pytest.org/)
