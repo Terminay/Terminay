@@ -12,15 +12,15 @@ My name is **Tanay Mishra**. I am a student at *@PMSHRIKVIITPOWAI*, Mumbai, Indi
 
 ### Projects
 
-- [Lessel](https://github.com/Terminay/lessel): A framework as an npm package for creating systems of communication between messaging apps.
-- [kJudge](https://github.com/Terminay/kJudge): A CLI tool for competitive programmers that has a quick stress testing and judging system.
+- [Lessel](https://github.com/Terminay/lessel): A framework as an npm package for creating systems of communication between messaging apps. [![Stars](https://img.shields.io/github/stars/Terminay/lessel?style=social)](https://github.com/Terminay/lessel/stargazers)
+- [kJudge](https://github.com/Terminay/kJudge): A CLI tool for competitive programmers that has a quick stress testing and judging system. [![Stars](https://img.shields.io/github/stars/Terminay/kJudge?style=social)](https://github.com/Terminay/kJudge/stargazers)
 - [IPLp](https://github.com/Terminay/IPLp): An ML model made for predicting IPL matches trained on previous year data from 2008 to 2024.
-- [Leanpass](https://github.com/Terminay/leanpass): A Lightweight PyPi library for small neural networks and educational experiments.
+- [Leanpass](https://github.com/Terminay/leanpass): A Lightweight PyPi library for small neural networks and educational experiments. [![Stars](https://img.shields.io/github/stars/Terminay/LeanPass?style=social)](https://github.com/Terminay/LeanPass/stargazers)
 - [Forj128](https://github.com/Terminay/forj128): A 128-bit cryptographic hash function demonstrating Merkle-Damgard construction.
 - [Repovibes](https://github.com/Terminay/repovibes): A WebApp which generates a radar looking embeddable svg for your github repos.
-- [Cairn.js](https://github.com/Terminay/cairnjs): A backend framework where a route's shape, validation, and handler live in one call.
+- [Cairn.js](https://github.com/Terminay/cairnjs): A backend framework where a route's shape, validation, and handler live in one call. [![Stars](https://img.shields.io/github/stars/Terminay/cairnjs?style=social)](https://github.com/Terminay/cairnjs/stargazers)
 - [IsitTaken](https://github.com/Terminay/isittaken): A small python library to check your pypi names
-- [Tuiify](https://GitHub.com/Terminay/Tuiify): A Python library which turns typed-functions into TUIs using one-line.
+- [Tuiify](https://GitHub.com/Terminay/Tuiify): A Python library which turns typed-functions into TUIs using one-line. [![Stars](https://img.shields.io/github/stars/Terminay/tuiify?style=social)](https://github.com/Terminay/tuiify/stargazers)
 
 > Note: All these projects are Open-source and being continuously developed, PR's welcome ;)
 
